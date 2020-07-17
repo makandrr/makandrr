@@ -21,7 +21,7 @@ X---- Layout functionality
 4 - heavy animation  
 
 ---X- Type  
-0 - Landing Page  
+0 - Simple Page  
 1 - Game  
 2 - Portfolio  
 3 - Stores, Catalogs etc    
