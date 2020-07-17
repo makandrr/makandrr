@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**makandrr/makandrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project flags:
+X____ - Layout functionality
+L - Layout without any functionality
+F - Layout with functionality
 
-Here are some ideas to get you started:
+_X___ - multipage
+Y - yes
+N - no
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__X__ - animation
+W - without animation at all
+L - light animation
+M - medium animation
+H - heavy animation
+
+___X_ - Type
+L - Landing Page
+G - Game
+P - Portfolio
+S - Stores, Catalogs
+E - Experimaental
+
+____X - Technology
+H - Only HTML...
+C - HTML, CSS
+J - HTML, maybe CSS, JavaScript
+F - HTML, maybe CSS, JavaScript frameworks
