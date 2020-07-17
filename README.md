@@ -2,28 +2,33 @@
 
 Project flags:  
 X---- Layout functionality  
-L - Layout without any functionality  
-F - Layout with functionality  
+1 - Layout without any functionality  
+2 - Layout layout with inconspicuous functionality  
+3 - Layout with light functionality  
+4 - Layout with heavy functionality  
 
 -X---- multipage  
-Y - yes  
-N - no  
+0 - one page site  
+1 - multi-page site with only one page realization  
+2 - multi-page site with realization of not all pages of the site  
+3 - experimental
+4 - mulitpage
 
 --X-- animation  
-W - without animation at all  
-L - light animation  
-M - medium animation  
-H - heavy animation  
+1 - without animation at all  
+2 - light animation  
+3 - medium animation  
+4 - heavy animation  
 
 ---X- Type  
-L - Landing Page  
-G - Game  
-P - Portfolio  
-S - Stores, Catalogs  
-E - Experimaental  
+0 - Landing Page  
+1 - Game  
+2 - Portfolio  
+3 - Stores, Catalogs etc    
+4 - Other  
 
 ----X Technology  
-H - Only HTML...  
-C - HTML, CSS  
-J - HTML, maybe CSS, JavaScript  
-F - HTML, maybe CSS, JavaScript frameworks  
+1 - Only HTML...  
+2 - HTML, CSS  
+3 - HTML, maybe CSS, JavaScript  
+4 - HTML, maybe CSS, JavaScript frameworks  
